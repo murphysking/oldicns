@@ -4,19 +4,19 @@ collect old mac app icns
 icns list
 |应用名称|图标|
 |--|--|
-|Alfred 4|![](./png/Alfred%204.png)|
+|Alfred 4|![](./png/Alfred4.png)|
 |Audacity|![](./png/Audacity.png)|
-|Balance Lock|![](./png/Balance%20Lock.png)|
+|Balance Lock|![](./png/BalanceLock.png)|
 |BetterZip|![](./png/BetterZip.png)|
-|Beyond Compare|![](./png/Beyond%20Compare.png)|
-|BitTorrent Sync|![](./png/BitTorrent%20Sync.png)|
+|Beyond Compare|![](./png/BeyondCompare.png)|
+|BitTorrent Sync|![](./png/BitTorrentSync.png)|
 |CheatSheet|![](./png/CheatSheet.png)|
-|Cloudflare WARP|![](./png/Cloudflare%20WARP.png)|
+|Cloudflare WARP|![](./png/CloudflareWARP.png)|
 |Cornerstone|![](./png/Cornerstone.png)|
 |FileZilla|![](./png/FileZilla.png)|
-|Hidden Bar|![](./png/Hidden%20Bar.png)|
+|Hidden Bar|![](./png/HiddenBar.png)|
 |MP3TagEditor2|![](./png/MP3TagEditor2.png)|
-|Navicat Premium|![](./png/Navicat%20Premium.png)|
+|Navicat Premium|![](./png/NavicatPremium.png)|
 |OneDrive|![](./png/OneDrive.png)|
 |Outlook|![](./png/Outlook.png)|
 |PPT3|![](./png/PPT3.png)|
@@ -24,9 +24,9 @@ icns list
 |Tabby|![](./png/Tabby.png)|
 |TotalFinder|![](./png/TotalFinder.png)|
 |TuxeraDiskManager|![](./png/TuxeraDiskManager.png)|
-|Visual Studio Code|![](./png/Visual%20Studio%20Code.png)|
+|Visual Studio Code|![](./png/VisualStudioCode.png)|
 |XCEL|![](./png/XCEL.png)|
-|app store|![](./png/app%20store.png)|
+|app store|![](./png/appstore.png)|
 |charles|![](./png/charles.png)|
 |chrome|![](./png/chrome.png)|
 |clash-verge|![](./png/clash-verge.png)|
@@ -60,8 +60,8 @@ icns list
 |reeder|![](./png/reeder.png)|
 |shadowsocks|![](./png/shadowsocks.png)|
 |shotcut|![](./png/shotcut.png)|
-|studio 3t-1|![](./png/studio%203t-1.png)|
-|studio 3t|![](./png/studio%203t.png)|
+|studio 3t-1|![](./png/studio3t-1.png)|
+|studio 3t|![](./png/studio3t.png)|
 |teamviewer|![](./png/teamviewer.png)|
 |telegram|![](./png/telegram.png)|
 |usbfistman|![](./png/usbfistman.png)|
